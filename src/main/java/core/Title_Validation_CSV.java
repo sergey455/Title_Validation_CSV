@@ -11,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Title_Validation_CSV {
 	public static void main(String[] args) {
 
-		String csvFile = "C:/workspace/Title_Validation_CSV/src/main/resources/Test.csv";
+		String csvFile = "C:/workspace/Title_Validation_CSV/src/test/resources/Test.csv";
 		BufferedReader br = null;
 		String line = null;
 		String cvsSplitBy = ",";

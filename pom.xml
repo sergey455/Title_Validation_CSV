@@ -36,7 +36,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.Title_Validation_CSV</mainClass>
+							<mainClass>core.App</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
